@@ -1,0 +1,14 @@
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+E:\Project\PRN231\Lab3_PRN231\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
